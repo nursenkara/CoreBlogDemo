@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+C:\Users\asus\Desktop\asp.net core\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
